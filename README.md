@@ -43,7 +43,7 @@ ul{padding-left:20px;margin:10px 0}
 <li>50 ideias de post prontas pra copiar</li>
 </ul>
 <p><b>Bônus:</b> Calendário de conteúdo + Grupo VIP</p>
-<p class="preco">1500 MZN</p>
+<p class="preco">500 MZN</p>
 <a href="https://wa.me/258868573809?text=Ola Dneyson, quero o curso Marketing Digital do Zero" class="btn">Garantir Vaga no WhatsApp</a>
 </div>
 </div>
@@ -63,7 +63,7 @@ ul{padding-left:20px;margin:10px 0}
 <li>Modelos de anúncio prontos pra copiar</li>
 </ul>
 <p><b>Bônus:</b> Planilha de controle + Suporte 7 dias</p>
-<p class="preco">3500 MZN</p>
+<p class="preco">800 MZN</p>
 <a href="https://wa.me/258868573809?text=Ola Dneyson, quero o curso de Trafego Pago" class="btn">Garantir Vaga no WhatsApp</a>
 </div>
 </div>
@@ -83,7 +83,7 @@ ul{padding-left:20px;margin:10px 0}
 <li>30 textos prontos pra Status + Catálogo</li>
 </ul>
 <p><b>Bônus:</b> Script de abordagem + Lista de transmissão</p>
-<p class="preco">2000 MZN</p>
+<p class="preco">1200 MZN</p>
 <a href="https://wa.me/258868573809?text=Ola Dneyson, quero o curso de Vendas WhatsApp" class="btn">Garantir Vaga no WhatsApp</a>
 </div>
 </div>
